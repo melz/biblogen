@@ -1,0 +1,11 @@
+homepage:
+  url:   /
+  param: { module: default, action: index }
+
+faq:
+  url:   /faq
+  param: { module: default, action: faq }
+
+generate_schedule:
+  url:   /generate_schedule
+  param: { module: default, action: generateSchedule }

@@ -1,0 +1,16 @@
+default:
+  http_metas:
+    content-type: text/html
+
+  metas:
+    title:        BibloGen
+    #description:  symfony project
+    #keywords:     symfony, project
+    language:     en
+    robots:       index, follow
+
+  stylesheets:    [style.css]
+  javascripts:    [modernizr-1.5.min.js]
+
+  has_layout:     true
+  layout:         layout
